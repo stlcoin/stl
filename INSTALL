@@ -1,0 +1,9 @@
+Building Stlcoin
+
+See doc/readme-qt.rst for instructions on building Stlcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Stlcoin.
+
+See doc/build-*.txt for instructions on building stlcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Stlcoin.
